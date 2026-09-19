@@ -191,7 +191,7 @@ Exercise data is populated using database seeders based on the exercise dataset 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kirbi0w07/my-workout-api.git
 cd my-workout-api
 ```
 
@@ -325,4 +325,4 @@ The API is actively being developed alongside the React Native mobile applicatio
 
 The API is consumed by the Workout mobile application built with React Native and Expo.
 
-> Repository: `<mobile-app-repository-url>`
+> Repository: `https://github.com/kirbi0w07/my-workout-app.git`
